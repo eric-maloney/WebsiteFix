@@ -1,5 +1,20 @@
-body {background-color: darkcyan;}
+body {background-color: aqua;}
 .person_image
 {height: 100px;
- width: 80px;
+  width: 80px;
+}
+
+h1 {text-align: center}
+
+.day-box {background-color:burlywood;
+margin: 20px;
+padding: 5px
+
+}
+
+.day { font-size: 20px;
+}
+
+.assignment-label { float:left;
+
 }
