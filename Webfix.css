@@ -1,4 +1,4 @@
-body {background-color: aqua;}
+
 .person_image
 {height: 100px;
   width: 80px;
@@ -6,9 +6,11 @@ body {background-color: aqua;}
 
 h1 {text-align: center}
 
-.day-box {background-color:burlywood;
-margin: 20px;
-padding: 5px
+.day-box {background-color:white;
+margin: 35px;
+padding: 5px;
+border-radius: 20px;
+box-shadow: 10px 10px 10px 10px white 
 
 }
 
@@ -16,5 +18,7 @@ padding: 5px
 }
 
 .assignment-label { float:left;
+}
 
+body {background-image: url("https://lightroom.adobe.com/v2c/catalogs/b71331f1e6324539ad7f632238ec6fc7/assets/38a489b7a7a343ce8636b99cbcf41ed6/revisions/659b548a5fd442ae860ca6f6c83b7940/renditions/695045da63cfb984a95a93203878d262");
 }
