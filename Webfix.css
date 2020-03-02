@@ -67,3 +67,73 @@ clear:both}
 margin:auto;
 width: 375px;
 height: 563px;}
+
+
+.person_image
+{height: 100px;
+  width: 80px;
+  position:relative;
+  top: 5px;
+  left: 3px;
+  border: solid;
+  border-width:2px;
+}
+
+h1 {text-align: center}
+
+.day-box {background-color:white;
+margin: 35px;
+padding: 5px;
+border-radius: 20px;
+box-shadow: 10px 10px 10px 10px white; 
+}
+
+.day { font-size: 20px;
+}
+
+.assignment-label { float:left;
+}
+
+body {background-image: url("https://lightroom.adobe.com/v2c/catalogs/b71331f1e6324539ad7f632238ec6fc7/assets/38a489b7a7a343ce8636b99cbcf41ed6/revisions/659b548a5fd442ae860ca6f6c83b7940/renditions/695045da63cfb984a95a93203878d262");
+}
+
+.person_info{background-color:white;
+width: 90px;
+border: solid;
+}
+.nav{position:absolute;
+top: 140px;
+background-color:cornsilk;
+padding: 8px;
+border:solid;
+border-width: 2px;}
+
+h1{position: relative;
+top: 20px;
+background-color:white;
+border-radius: 20px;
+box-shadow: 10px 10px 10px;
+border:solid;
+border-width: 1px;}
+
+.nav a{border:solid;
+border-width:2px;
+border-radius: 15px;
+padding: 5px;
+margin: 4px;
+border-color:black;
+}
+
+.account_form{
+  position:relative;
+  top: 50px
+}
+label{float: left;
+clear: both;}
+input{float: right;
+clear:both}
+
+.account_form .person_image {display:block;
+margin:auto;
+width: 375px;
+height: 563px;}
