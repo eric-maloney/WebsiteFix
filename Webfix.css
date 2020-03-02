@@ -4,7 +4,7 @@
   width: 80px;
   position:relative;
   top: 5px;
-  left: 3px;
+  left:3px;
   border: solid;
   border-width:2px;
 }
@@ -53,3 +53,42 @@ padding: 5px;
 margin: 4px;
 border-color:black;
 }
+
+
+h1{position: relative;
+top: 20px;
+background-color:white;
+border-radius: 20px;
+box-shadow: 10px 10px 10px;
+border:solid;
+border-width: 1px;}
+
+.nav a{border:solid;
+border-width:2px;
+border-radius: 15px;
+padding: 5px;
+margin: 4px;
+border-color:black;
+}
+
+
+td{background-color: white;
+border-radius:50px;
+font-size: 20px;
+position: relative;
+top: 25px;
+margin: 50px;
+text-align:center;
+box-shadow: 10px 10px 10px 10px  white;}
+
+th{
+background-color: white;
+border-radius: 20px;
+padding: 20px;
+background-image: url("https://cdn.pixabay.com/photo/2019/12/07/17/28/grass-4679747_1280.png"); 
+border-width: 10px;
+}
+
+
+
+table{ border-spacing:35px;}
