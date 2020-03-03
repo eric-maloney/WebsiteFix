@@ -13,6 +13,16 @@
 } 
 
 .lab-box .grade{color: black;}
+
+.prompt{position:relative;
+top: 10px;}
+
+.view_text{position:relative;
+top: 10px;}
+
+iframe{position:relative;
+top:10px;}
+
 @keyframes fadeInAnimation{0%{opacity:0;}
 100%{opacity:1;}}
 
