@@ -132,11 +132,13 @@ height: 563px;}
 
 
 th{ background-color: white;
+border-radius: 50px;
+padding: 10px;
 position: relative;
 top: 20px;
 } 
 
-td{background-color: white;
+td {background-color: white;
 position:relative;
 top: 30px;
 border-radius: 50px;
@@ -144,4 +146,6 @@ text-align: center;
 font-size: 16px;
 box-shadow: 10px 10px 10px 10px white;}
 
-table{border-spacing: 30px;} 
+table{border-spacing: 30px;}
+
+.header{background-image: url("https://www.nps.gov/grca/learn/nature/images/fir_aspen.jpg?maxwidth=1200&maxheight=1200&autorotate=false")};
