@@ -93,7 +93,7 @@ border: solid;
 }
 .nav{position:absolute;
 top: 140px;
-background-color:cornsilk;
+background-color:saddlebrown;
 padding: 8px;
 border:solid;
 border-width: 2px;
@@ -111,8 +111,10 @@ border-width: 1px;}
 .nav a{
 border-width:2px;
 border-radius: 15px;
-padding: 5px;
+padding: 15px;
 margin: 4px;
+color: white; 
+background-image: url ("https://cdn.pixabay.com/photo/2014/12/21/23/54/bush-576310_960_720.png");
 
 }
 
@@ -149,3 +151,5 @@ box-shadow: 10px 10px 10px 10px white;}
 table{border-spacing: 30px;}
 
 .header{background-image: url("https://www.nps.gov/grca/learn/nature/images/fir_aspen.jpg?maxwidth=1200&maxheight=1200&autorotate=false")};
+
+.
