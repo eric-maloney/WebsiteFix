@@ -57,6 +57,17 @@ width: 90px;
 border: solid;
 }
 
+h3 {color: white;
+text-align: center;
+text-decoration: underline;
+text transform: uppercase;
+font-size: 30px;
+position:relative;
+top:10px;}
+
+.grade{ text-align: center;
+color: white;
+font-size:25px}
 
 h1{position: relative;
 top: 20px;
@@ -169,5 +180,4 @@ box-shadow: 10px 10px 10px 10px white;}
 table{border-spacing: 30px;}
 
 .header{background-image: url("https://www.nps.gov/grca/learn/nature/images/fir_aspen.jpg?maxwidth=1200&maxheight=1200&autorotate=false") };
-
 
